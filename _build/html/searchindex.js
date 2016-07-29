@@ -1,0 +1,1 @@
+Search.setIndex({envversion:50,filenames:["index"],objects:{},objnames:{},objtypes:{},terms:{halo:[]},titles:["halo"],titleterms:{halo:0}})
