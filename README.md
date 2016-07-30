@@ -31,5 +31,5 @@ This is because some programs in this list rely on EACH OTHER.
 
 # Developer notes
 It's important to understand how the software works before developement.    
-[here](/#) is where you can find a guide of how the process works.    
+[here](https://github.com/CalderWhite/GitHelper-Documentation/blob/master/Process.md) is where you can find a guide of how the process works.    
 class documentation is [here](/#)
